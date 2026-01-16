@@ -6,7 +6,7 @@ An intelligent web application designed to analyze and provide detailed feedback
 
 
 ---
-## Key Features ✨
+## Key Features
 
 * **PDF Proposal Upload:** Easily upload proposals in PDF format.
 * **AI-Powered Metrics Analysis:** Get scores on crucial metrics like 
@@ -17,7 +17,7 @@ An intelligent web application designed to analyze and provide detailed feedback
 * **Containerized & Portable:** Packaged with Docker for a seamless setup on any machine.
 
 ---
-## 🚀 How to Run (Recommended)
+## How to Run (Recommended)
 
 This project is distributed as a Docker container. You can run it on any machine with Docker installed without needing to set up a development environment.
 
@@ -27,7 +27,7 @@ Pull the latest image from the GitHub Container Registry:
 ```bash
 docker pull ghcr.io/ikartiksh/gsoc-proposal-reviewer:latest
 ```
-## 🛠️ Technology Stack
+## Tech Stack
 Frontend: React, Vite
 
 Core Backend: Node.js
